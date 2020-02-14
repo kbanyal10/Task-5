@@ -1,0 +1,20 @@
+
+    html {
+      box-sizing: border-box;
+      background:white; 
+      font-family: 'helvetica neue';
+      font-size: 10px;
+      font-weight: 200;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+
+img 
+{
+height: 80vh;
+width: 80%;
+
+}
